@@ -1,15 +1,15 @@
 {
   "name": "webpack-config",
   "version": "1.0.0",
-  "description": "This is my Webpack 4 configuration for static projects.",
+  "description": "This is my Webpack 4 configuration for static projects. Forked from dvlden/webpack-config",
   "scripts": {
     "dev": "webpack-dev-server --progress --hide-modules --mode development",
     "build": "webpack --progress --hide-modules --mode production"
   },
   "author": {
-    "name": "Nenad Novaković",
-    "email": "n.dvlden@gmail.com",
-    "url": "https://github.com/dvlden"
+    "name": "Omar Quiroz",
+    "email": "remotedevoq@gmail.com",
+    "url": "https://github.com/oquirozm"
   },
   "license": "MIT",
   "devDependencies": {
@@ -40,9 +40,5 @@
     "webpackbar": "^2.6.1"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-pro-webfonts": "^1.0.9",
-    "bootstrap": "^4.1.1",
-    "jquery-slim": "^3.0.0",
-    "popper.js": "^1.14.3"
   }
 }

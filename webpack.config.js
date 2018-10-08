@@ -200,7 +200,8 @@ module.exports = (env = {}, argv) => {
           {
             host: 'localhost',
             port: 9090,
-            proxy: 'http://localhost:8080/'
+            proxy: 'http://localhost:8080/',
+            open: false
           },
           {
             reload: false

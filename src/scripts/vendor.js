@@ -1,3 +1,5 @@
-window.$ = window.jQuery = require('jquery-slim');
+// Require here the JS from package vendors. This works as a separate entry point for the app.
 
-require('~/vendor/bootstrap');
+// window.$ = window.jQuery = require('jquery-slim');
+
+// require('~/vendor/bootstrap');
