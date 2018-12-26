@@ -4,13 +4,6 @@ This is my personal `webpack v4` configuration, that I am using for small static
 Feel free to contribute, improve or use it for your projects.
 
 
-### Contains some neat stuff out of the box!
-
-- jQuery Slim
-- Bootstrap with Popper.js
-- FontAwesome Pro _(which you cannot install, unless you have a Pro account, as you will require a Token for installation)_
-
-
 ### What does this configuration handles?
 
 
@@ -20,7 +13,6 @@ Feel free to contribute, improve or use it for your projects.
 - it compiles everything with relative paths, rather than absolute
 - it compiles `sass/scss` to the `css` file
 - it compiles `es6` to the syntax that every browser can understand
-- it contains latest **Boostrap**, but with entirely modular setup; you may include only the parts that you need, as you probably won't use **70%** of the framework
 - it has alias as `~` for importing your `js` files, no more mess with directory back-levels
 
 
